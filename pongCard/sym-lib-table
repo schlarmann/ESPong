@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lib")(type "Legacy")(uri "/home/paul/Documents/Projekte/espChannel3/pongCard/lib/tp4056.lib")(options "")(descr ""))
+  (lib (name "pongCard-rescue")(type "KiCad")(uri "${KIPRJMOD}/pongCard-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "pongCard")(type "KiCad")(uri "${KIPRJMOD}/pongCard.kicad_sym")(options "")(descr ""))
+)
